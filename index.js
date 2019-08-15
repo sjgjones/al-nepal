@@ -5,4 +5,4 @@ Nepal.credentials = require('@alertlogic/credentials');
 Nepal.environments = require('@alertlogic/environments');
 Nepal.subscriptions = require('@alertlogic/subscriptions');
 
-module.exports = Nepal;
+module.exports = Nepal as nepalClient;
